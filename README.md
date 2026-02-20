@@ -1,4 +1,4 @@
-#project:  persinal finance tracker
+#project:  personal finance tracker
 📌 Overview
 
 Finance Tracker is a personal finance management project designed to help users track income, expenses, and savings in one place.
